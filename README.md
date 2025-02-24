@@ -15,22 +15,22 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![image](https://github.com/user-attachments/assets/9443052a-0772-406f-a702-a485f30db4c9)
+![Screenshot 2025-02-24 233427](https://github.com/user-attachments/assets/108c47ea-1fab-4adb-9878-dde82874daa8)
 
 
 
 ### 📜 Members List
-![image](https://github.com/user-attachments/assets/f04c3c0a-2b5c-4995-a3ad-1ae823b831ab)
+![Screenshot 2025-02-22 214239](https://github.com/user-attachments/assets/5088265a-154d-4e33-983f-5e97e267abe0)
 
 
 
 ### 🆔 Member Info
-![image](https://github.com/user-attachments/assets/dc56a24b-0f21-4cfc-8277-904fa7140aa2)
+![Screenshot 2025-02-24 233505](https://github.com/user-attachments/assets/7d4d3074-a3d0-430e-9ff2-3fb3bee1ea6d)
 
 
 
 ### 🛡️ Admin Panel
-![image](https://github.com/user-attachments/assets/44079aa8-d173-498f-bd80-8646c3ef4e6b)
+![Screenshot 2025-02-24 234238](https://github.com/user-attachments/assets/15b177db-e36c-4c02-93ab-24b4a9081bf5)
 
 ## 🏗️ Technologies Used
 
