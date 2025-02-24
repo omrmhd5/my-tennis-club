@@ -45,7 +45,7 @@
 This project follows the **W3Schools Django Tutorial** from beginning to end. 📖✨
 
 ## 👤 Author
----
+
 🎓 **Omar Mahmoud**  
 📧 Email: omrmhd54@gmail.com  
 🔗 GitHub: [omrmhd5](https://github.com/omrmhd5)
